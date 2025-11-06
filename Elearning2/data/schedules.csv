@@ -1,0 +1,6 @@
+scheduleId,memberId,trainerId,workoutName,description,scheduledTime,durationMinutes,workoutType,status,completionPercentage,progressNotes,exercises
+lich1,test,AnhPT1,bai,,,60,MIXED,SCHEDULED,0.00,,
+lich2,test,AnhPT1,tap xa,,,60,MIXED,SCHEDULED,0.00,,
+lich3,test,AnhPT3,tap ta,,,60,MIXED,SCHEDULED,0.00,,
+lich6,test3,AnhPT1,jj,,,60,MIXED,SCHEDULED,0.00,,
+lich7,test3,AnhPT1,biai,,,60,MIXED,SCHEDULED,0.00,,

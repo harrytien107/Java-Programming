@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "StudentMain",
+            "request": "launch",
+            "mainClass": "com.fe.main.StudentMain",
+            "projectName": "ManyToMany",
+            "classPaths": [
+                "${workspaceFolder}/target/classes"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "ManyToMany GUI",
+            "request": "launch",
+            "mainClass": "com.fe.gui.ManyToMany",
+            "projectName": "ManyToMany",
+            "classPaths": [
+                "${workspaceFolder}/target/classes"
+            ]
+        }
+    ]
+}

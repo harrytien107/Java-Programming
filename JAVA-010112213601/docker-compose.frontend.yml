@@ -1,0 +1,15 @@
+version: "3.8"
+services:
+  frontend:
+    build:
+      context: ./FrontEnd
+      args:
+        # IMPORTANT: Replace with the IP of your Backend Server (Ubuntu Server 1)
+        # Example: http://192.168.1.14:8080
+        REACT_APP_API_URL: http://192.168.1.101:8080
+    container_name: frontend
+    ports:
+      - "3000:80"
+    restart: unless-stopped
+
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <!-- Console appender for application output -->
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Completely silence Hibernate logging -->
+    <logger name="org.hibernate" level="ERROR" />
+    <logger name="org.hibernate.SQL" level="ERROR" />
+    <logger name="org.hibernate.type" level="ERROR" />
+    <logger name="org.hibernate.tool.schema" level="ERROR" />
+    <logger name="org.hibernate.engine" level="ERROR" />
+    <logger name="org.hibernate.jpa" level="ERROR" />
+    <logger name="org.hibernate.annotations" level="ERROR" />
+    <logger name="org.hibernate.internal" level="ERROR" />
+    <logger name="org.hibernate.resource" level="ERROR" />
+    <logger name="org.hibernate.dialect" level="ERROR" />
+    
+    <!-- Silence other potential loggers -->
+    <logger name="com.mysql" level="ERROR" />
+    <logger name="javax.persistence" level="ERROR" />
+    
+    <!-- Set root logger level -->
+    <root level="ERROR">
+        <appender-ref ref="STDOUT" />
+    </root>
+</configuration>

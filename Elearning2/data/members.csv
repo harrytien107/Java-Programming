@@ -1,0 +1,5 @@
+userId,name,email,phone,password,membershipType,membershipStartDate,membershipEndDate,isActive,assignedTrainerId,progressScore,totalWorkouts,attendedWorkouts
+test,tung,tung@gmail.com,1234567,123,monthly,2025-05-26,2025-06-26,true,AnhPT1,45.33,32,4
+test2,tien,tien@gmail.com,1234567,123,yearly,2024-01-26,2025-01-26,false,,0.00,0,0
+test3,vo,vo@gmail.com,1234567,123,monthly,2025-02-01,2025-06-26,true,,0.00,3,0
+test4,phong,phong@gmail.com,1234567,123,monthly,2025-04-12,2025-06-26,true,,0.00,0,0

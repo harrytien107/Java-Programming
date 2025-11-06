@@ -1,0 +1,2 @@
+attendanceId,memberId,memberName,date,checkInTime,checkOutTime,workoutScheduleId,status,notes
+ATT1748437251248_1,test4,phong,2025-05-28,2025-05-28T20:00:51.2518471,,,CHECKED_IN,

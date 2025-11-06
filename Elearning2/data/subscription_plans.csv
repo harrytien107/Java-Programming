@@ -1,0 +1,6 @@
+planId,planName,description,price,durationMonths,planType,isActive,benefits,maxWorkoutsPerWeek,includesPersonalTrainer
+BASIC_MONTHLY,Basic Monthly,,50.00,1,BASIC,true,Access to gym equipment; group classes,3,false
+STANDARD_MONTHLY,Standard Monthly,,75.00,1,STANDARD,true,Access to gym equipment; all group classes; nutrition consultation,5,false
+PREMIUM_MONTHLY,Premium Monthly,,100.00,1,PREMIUM,true,Unlimited gym access; personal trainer; nutrition plan; priority booking,7,true
+BASIC_YEARLY,Basic Yearly,,480.00,12,BASIC,true,Access to gym equipment; group classes,3,false
+PREMIUM_YEARLY,Premium Yearly,,960.00,12,PREMIUM,true,Unlimited gym access; personal trainer; nutrition plan; priority booking,7,true

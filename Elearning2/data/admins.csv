@@ -1,0 +1,2 @@
+userId,name,email,phone,password,adminLevel,isActive
+admin,System Administrator,admin@gym.com,1234567890,admin123,Super Admin,true

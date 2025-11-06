@@ -1,0 +1,3 @@
+How to Run the Application:
+Command:
+cd "d:\CODE\Java\Elearning3\ManyToMany" && mvn exec:java
