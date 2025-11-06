@@ -155,6 +155,7 @@ This repository contains coursework, labs, and projects from a Java programming 
 
 ### 🎯 Project 1: Full-Stack Application (`JAVA-010112213601/`)
 
+The original repo is in [JAVA-010112213601](https://github.com/Glasspham/JAVA-010112213601)
 A complete full-stack application with Spring Boot backend and React frontend.
 
 **Features:**
