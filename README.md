@@ -345,25 +345,9 @@ Feel free to open an issue or submit a pull request!
 
 ---
 
-## 📧 Contact
-
-For questions or collaboration:
-- **Repository**: [JAVA-010112213601](https://github.com/Glasspham/JAVA-010112213601)
-- **Issues**: Use the GitHub Issues tab
-
----
-
 ## 📜 License
 
 This project is part of academic coursework. Please respect academic integrity policies when referencing this code.
-
----
-
-## 🙏 Acknowledgments
-
-- Course instructors and teaching assistants
-- Spring Boot and React communities
-- Open-source contributors
 
 ---
 
